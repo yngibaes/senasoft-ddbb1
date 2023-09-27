@@ -26,3 +26,5 @@ Warning: An unhandled error was caught from submitForm() TypeError: datoRegistra
 
 Ya lo enviamos de nuevo
 
+**Cual es el fichero
+
