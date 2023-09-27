@@ -23,3 +23,6 @@ Warning: An unhandled error was caught from submitForm() TypeError: datoRegistra
     js index.js:7
     factory react refresh:6
     Webpack 3**
+
+Ya lo enviamos de nuevo
+
