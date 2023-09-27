@@ -33,6 +33,6 @@ Ya lo enviamos de nuevo
 
  ***A cual nombre por favor
 
-Uno se llama backend y otro fronend
+Uno se llama backend y otro frontend
  
 
