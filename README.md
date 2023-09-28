@@ -45,3 +45,6 @@ Uno se llama backend y otro frontend
     database:"presentar"
 }) //Conexión a la base de datos, siempre va el password vacío, los primeros tres siempre iguales, y lo que cambia es el nombre de la base de datos.
 
+
+** Meno ya lo pongo
+
