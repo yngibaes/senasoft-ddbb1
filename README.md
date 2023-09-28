@@ -34,5 +34,14 @@ Ya lo enviamos de nuevo
  ***A cual nombre por favor
 
 Uno se llama backend y otro frontend
- 
+
+
+ **MArik en la configuracion de la BBDD le hace falta el puerto
+ const pool = mysql.createConnection({
+    host:"localhost",
+    port:3306,//Esto hace falta
+    user:"root",
+    password:"",
+    database:"presentar"
+}) //Conexión a la base de datos, siempre va el password vacío, los primeros tres siempre iguales, y lo que cambia es el nombre de la base de datos.
 
