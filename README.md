@@ -35,6 +35,8 @@ Ya lo enviamos de nuevo
 
 Uno se llama backend y otro frontend
 
+** Ya la subi
+
 
  **MArik en la configuracion de la BBDD le hace falta el puerto
  const pool = mysql.createConnection({
