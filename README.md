@@ -48,3 +48,6 @@ Uno se llama backend y otro frontend
 
 ** Meno ya lo pongo
 
+
+**Donde esta la base de datos
+
