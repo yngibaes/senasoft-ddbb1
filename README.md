@@ -53,6 +53,8 @@ Uno se llama backend y otro frontend
 
 **Donde esta la base de datos
 
+**Esta en aaa
+
 **ya la subí al backemnnd
 
 **No lo veo 
