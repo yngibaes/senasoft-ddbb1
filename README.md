@@ -35,6 +35,8 @@ Ya lo enviamos de nuevo
 
 Uno se llama backend y otro frontend
 
+
+
 ** Ya la subi
 
 
@@ -58,4 +60,6 @@ Uno se llama backend y otro frontend
 **ya la subí al backemnnd
 
 **No lo veo 
+
+**la subi una nueva llamada aaa
 
