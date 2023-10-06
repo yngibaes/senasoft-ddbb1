@@ -1,0 +1,45 @@
+
+Manzanas
+	- id_manzanas
+	- nom_manzanas
+	- local_manzanas
+	- dir_manzanas
+
+servicios
+	- id_cate
+	- nom_cate
+	- descri_cate
+
+Establecimiento
+	- id_estab
+	- nom_estab
+	- admin_estab
+	- dir_estab
+
+Mujeres
+	- id_muj
+	- nom_muj
+	- apell_muj
+	- tipoDoc_muj
+	- Num_docum_muj
+	- tel_muj
+	- email_muj
+	- ciudad_muj
+	- dir_muj.  
+	- ocu_muj
+	- ser_muj
+Propuesta(
+    id_propuesta 
+    nomManzana_propu 
+    Servicio_propu 
+    hora_fecha 
+)
+
+
+
+CONEXIONES:
+
+- Las manzanas pueden ofrecer varios servicios y los servicios pueden tener varias manzanas 
+- un servicio tiene un tipo y una categoria, pero una categoria y un tipo pueden tener mas de uno. La tabla de la foreign key que tiene la foreign key es la de servicios
+- Una manzana tiene una infrasctutura y una infrasctutura tiene una manzana. uno a uno
+- Una manzana tiene muchas mujeres, y muchas mujeres tienen varias manzanas. muchos a muchos
